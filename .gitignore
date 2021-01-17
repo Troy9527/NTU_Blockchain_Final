@@ -1,0 +1,6 @@
+data/*
+env/*
+node_modules/*
+query2.js
+run2.py
+package-lock.json
